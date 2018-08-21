@@ -1,4 +1,4 @@
-const apikey = 'AGheDDdseSWk73IRnYrMAz'; // get your API key from filestask
+const apikey = '<your API Key>'; // get your API key from filestask
 const client = filestack.init(apikey);
 
 document.querySelector('input').addEventListener('change', (event) => {
